@@ -1,0 +1,108 @@
+
+
+h1{
+    color: white;
+    background-color: black;
+    text-align: left;
+    position: initial;
+    font-size: 25px;
+}
+.manimg{
+    margin-top: -15px;
+    padding-top: -60px ;
+
+}
+.fsection{
+    background-color: rgba(0, 0, 0, 0.911);
+    color: white;
+    margin-top: -25px;
+}
+.bt1{
+    color: white;
+    background-color: red;
+    text-align: center;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    border-radius: 30px;
+    transition: ease-out;
+}
+.phone{
+    margin-left: 30px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.section2{
+    background-color: white;
+}
+.sh2{
+    color: black;
+    font-weight: bold;
+}
+.DD{
+    color: white;
+}
+.p2{
+    color: black;
+    text-align: center;
+}
+.rmore{
+    background-color:blue;
+    text-align: center;
+    border-style: solid;
+    border-radius: 30px;
+    position:inherit;
+}
+.section3{
+    background-color: blue;
+    background-image: url(bluesky.jpg);
+
+}
+.sh3{
+    color: white;
+    font-weight: bold;
+}
+.lp{
+    color: white;
+    text-align: center;
+}
+.section4{
+    background-color: white;
+}
+.gh2{
+    color: black;
+    font-weight: bold;
+    text-align: start;
+}
+.lop{
+    color: black;
+}
+.lopp{
+    color: black;
+    
+}
+
+
+.cc{
+    background-color: gray;
+    margin-top: -15px;
+}
+.rbt{
+    color: black;
+    border-radius: 30px;
+    background-color: royalblue;
+    margin-bottom: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-bottom: -30px;
+    text-align: center;
+    background-size: 30px;
+}
